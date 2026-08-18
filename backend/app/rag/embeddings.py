@@ -1,7 +1,7 @@
 from functools import lru_cache
 
 from langchain_huggingface import HuggingFaceEmbeddings
-#hii
+
 
 @lru_cache(maxsize=1)
 def get_embedding_model():
