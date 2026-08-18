@@ -566,6 +566,3 @@ REST APIs | Git | GitHub | Docker
 
 ---
 
-## ⭐ If You Find This Project Useful
-
-Give the repository a ⭐ on GitHub and feel free to explore the project.
