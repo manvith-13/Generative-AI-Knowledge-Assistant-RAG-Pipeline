@@ -237,7 +237,7 @@ generative-ai-knowledge-assistant/
 │   │
 │   ├── .env
 │   ├── requirements.txt
-│   └── Dockerfile
+│   
 │
 ├── frontend/
 │
@@ -325,12 +325,6 @@ pip install -r requirements.txt
 
 Create a `.env` file inside the backend directory.
 
-```env
-GOOGLE_API_KEY=your_google_api_key
-MODEL_NAME=gemini-2.5-flash
-LLM_PROVIDER=gemini
-CHROMA_DB_DIR=chroma_db
-```
 
 **Never upload your API key to GitHub.**
 
